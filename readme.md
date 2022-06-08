@@ -1,6 +1,7 @@
--- Color Palette
---first-color:#151E3F;
---second-color:#030027;
---third-color:#F2F3D9;
---fourth-color:#DC9E82;
---fifth-color:#C16E70;
+# Chat Bot Using Axios API
+
+Chat Bot was built using HTML,CSS and JS.
+
+## Preview
+
+link is 👉🏾 https://chat-bot-axios-alienxr.netlify.app/
