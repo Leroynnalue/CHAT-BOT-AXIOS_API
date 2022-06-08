@@ -1,0 +1,6 @@
+-- Color Palette
+--first-color:#151E3F;
+--second-color:#030027;
+--third-color:#F2F3D9;
+--fourth-color:#DC9E82;
+--fifth-color:#C16E70;
